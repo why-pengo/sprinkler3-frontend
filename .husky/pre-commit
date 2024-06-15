@@ -1,0 +1,2 @@
+npx ng lint
+npx prettier . --check
